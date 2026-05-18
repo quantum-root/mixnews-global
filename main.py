@@ -13,6 +13,7 @@ def main(page: ft.Page):
     page.window_width = 450
     page.window_height = 800
     page.padding = 20
+    page.window_center()
 
     saved_favs = page.client_storage.get("user_favorites")
     favorites = saved_favs if saved_favs is not None else []
