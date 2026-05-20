@@ -8,7 +8,7 @@ Built with **Python**, powered by the **Flet framework** (Flutter-backed UI), an
 
 ## 💡 Evolution of the Project (Where it started)
 
-This project is the highly advanced, refactored, and scalable **v5 version** of my initial software. 
+This project is a highly advanced, refactored, and scalable version of my initial software. 
 
 * 🏛️ **The Origin:** The very first, basic version of this application was created as a school project under the name **News Explorer**. You can check out the legacy repository here: [👉 Legacy News Explorer Repo](https://github.com/quantum-root/news-explorer)
 * 🚀 **The Evolution:** In this new `mixnews-global` repository, the entire project has been rebuilt from scratch. I migrated the codebase to an asynchronous-friendly modular architecture, separated the news sources into independent scaper components, and completely overhauled the UI/UX using Flet.
