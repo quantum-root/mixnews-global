@@ -21,6 +21,8 @@ This project is a highly advanced, refactored, and scalable version of my initia
 * **Modular Architecture:** Each news source has its own independent scraper module under the `sources/` package, making it incredibly easy to scale and add new platforms.
 * **Modern UI/UX:** Responsive, clean, and visually appealing interface built with Flet.
 * **Zero Configuration:** No expensive API keys required. It uses pure pythonic web scraping (`BeautifulSoup4` & `requests`) under the hood.
+* **Multi-Language Support:** Seamlessly aggregates news in both **English** and **Turkish**, catering to both local and international audiences.
+* **Multi-Source Scraping:** Dynamically fetches and parses data from trusted global and local agencies like BBC (EN), Independent (EN), NTV (TR), and Karar (TR).
 
 ---
 
