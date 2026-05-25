@@ -1,5 +1,17 @@
 # MixNews Global 📰🚀
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.9+-blue.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python Version">
+  <img src="https://img.shields.io/badge/UI%20Framework-Flet%20(Flutter)-red.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flet Framework">
+  <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License">
+</p>
+
+<p align="center">
+  <strong>Modern, cross-platform news aggregator application that fetches real-time world and national news from prestigious sources.</strong>
+</p>
+
+---
+
 MixNews Global is a modern, cross-platform news aggregator application that fetches real-time world and national news from various prestigious sources, parsing the data smoothly into a clean and intuitive user interface. 
 
 Built with **Python**, powered by the **Flet framework** (Flutter-backed UI), and driven by advanced **Web Scraping** techniques.
